@@ -45,7 +45,7 @@ env:
 
 secret:
   # -- Hugging Face token encoded using base64.
-  encodedToken: aGZfamZVSWZMbWR5RlpmVklUdWN2ZUFjak5aaGxEQkhhakpoUw==
+  encodedToken:
   # -- If a token is provided, specify a mount path that will be used to set HF_TOKEN_PATH
   secretMountPath: /tmp/hf_token
 
